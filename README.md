@@ -2,6 +2,8 @@
 
 This repository showcases three interactive Power BI dashboards developed as part of the PwC Virtual Case Program. Each dashboard addresses specific business challenges and provides actionable insights based on the data provided.
 
+[Credential Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BJKHCXqqBca4vKvyc_1698082985950_completion_certificate.pdf)
+
 ---
 
 ## Dashboards Overview
